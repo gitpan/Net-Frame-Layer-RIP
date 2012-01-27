@@ -1,4 +1,4 @@
-eval "use Test::Pod::Coverage tests => 8";
+eval "use Test::Pod::Coverage tests => 3";
 if ($@) {
    use Test;
    plan(tests => 1);
